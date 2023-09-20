@@ -1,0 +1,15 @@
+C:\Users\Alexandar Lackovic\source\repos\Assembler\bin\Debug\net6.0\Assembler.exe
+C:\Users\Alexandar Lackovic\source\repos\Assembler\bin\Debug\net6.0\Assembler.deps.json
+C:\Users\Alexandar Lackovic\source\repos\Assembler\bin\Debug\net6.0\Assembler.runtimeconfig.json
+C:\Users\Alexandar Lackovic\source\repos\Assembler\bin\Debug\net6.0\Assembler.dll
+C:\Users\Alexandar Lackovic\source\repos\Assembler\bin\Debug\net6.0\Assembler.pdb
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\Assembler.csproj.AssemblyReference.cache
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\Assembler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\Assembler.AssemblyInfoInputs.cache
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\Assembler.AssemblyInfo.cs
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\Assembler.dll
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\refint\Assembler.dll
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\Assembler.pdb
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\Assembler.genruntimeconfig.cache
+C:\Users\Alexandar Lackovic\source\repos\Assembler\obj\Debug\net6.0\ref\Assembler.dll
